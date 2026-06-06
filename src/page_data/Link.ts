@@ -13,7 +13,7 @@ export default {
       "name": "blog",
       "link": "https://blog.z2m.store",
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
-      "descr": "免费Web API数据接口调用服务平台."
+      "descr": "读史可以明智,知古方能鉴今."
     }
   ]
 }
