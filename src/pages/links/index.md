@@ -13,8 +13,8 @@ type: "links"
 :::
 
 ```yaml
-name: 韩小韩博客
-link: https://www.vvhan.com/
-avatar: https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640
-desc: 运气是计划之外的东西.
+站点名称：Saimen Blog
+站点描述：读史可以明智,知古方能鉴今。
+站点链接：https://com.z2m.store
+头像链接：https://img.z2m.store/g.png
 ```
