@@ -3,17 +3,17 @@ export default {
   api: '',
   // api 为空则使用 data 静态数据
   data: [
-    {
-      "name": "个人博客",
-      "link": "https://com.z2m.store",
-      "avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
-      "descr": "运气是计划之外的东西."
-    },
-    {
-      "name": "blog",
-      "link": "https://blog.z2m.store",
-      "avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
-      "descr": "读史可以明智,知古方能鉴今."
-    }
+    // {
+    //   "name": "个人博客",
+    //   "link": "https://com.z2m.store",
+    //   "avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
+    //   "descr": "运气是计划之外的东西."
+    // },
+    // {
+    //   "name": "blog",
+    //   "link": "https://blog.z2m.store",
+    //   "avatar": "https://img.z2m.store/file/public/1778862620159_g.png",
+    //   "descr": "读史可以明智,知古方能鉴今."
+    // }
   ]
 }
