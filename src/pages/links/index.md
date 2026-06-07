@@ -7,7 +7,7 @@ type: "links"
 ---
 
 :::note{type="success"}
-✉️ 在评论区按以上格式留下你的友链数据，和我互换友链吧！
+✉️ 下方自助申请链，和我互换友链吧！
 
 👭 排名不分先后，每次刷新 友链 会随机排列噢~
 :::
@@ -18,3 +18,6 @@ type: "links"
 站点链接：https://com.z2m.store
 头像链接：https://img.z2m.store/g.png
 ```
+<div id="container" style="overflow:hidden;">
+<iframe border="0" id="content" src="https://lk.z2m.store" frameborder="0" height="1000px" width="100%"></iframe>
+</div>
