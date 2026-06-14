@@ -10,7 +10,7 @@ export default {
         "树",
         "夕阳"
       ],
-      "content": "好美🌲<p class=\"vh-img-flex\"><img src=\"https://img.z2m.store/file/bg/1778891606017_7.jpg\"></p>"
+      "content": "好美🌲<p class=\"vh-img-flex\"><img src=\"https://img.z2m.store/file/bg/1780919513752_3.jpg\"></p>"
     },
     {
       "date": "2024-10-08 18:18:18",
@@ -19,13 +19,6 @@ export default {
         "工作"
       ],
       "content": "下班！"
-    },
-    {
-      "date": "2024-10-05 16:16:06",
-      "tags": [
-        "日常"
-      ],
-      "content": "记录第一条说说"
     }
   ]
 }
